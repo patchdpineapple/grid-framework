@@ -1,0 +1,7 @@
+# Ignore artifacts:
+css
+# scss
+ignore
+
+# Ignore all HTML files:
+*.html
